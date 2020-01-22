@@ -11,8 +11,14 @@ It will respond with a JSON representation of a greeting, as the following listi
 
 ====
 [source,json]
+
 ----
+
+
 {"id":1,"content":"Hello, World!"}
+
 ----
+
+
 ====
 
