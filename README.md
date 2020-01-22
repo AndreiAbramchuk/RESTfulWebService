@@ -9,6 +9,8 @@ This service accepts HTTP GET, POST, PUT and DELETE requests at http://localhost
 
 It responds with a JSON representation of list of employees as the following listing shows:
 
+====
+[source,json]
 ----
 {
         "employeeId": 1,
@@ -70,3 +72,4 @@ It responds with a JSON representation of list of employees as the following lis
         "dateOfBirth": "1975-07-27"
     }
 ----
+====
