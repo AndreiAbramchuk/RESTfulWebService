@@ -6,6 +6,9 @@ HTTP GET request at http://localhost:8080/employees/1
 
 It responds with a JSON representation of an employee with employeeId=1  as the following listing shows:
 
+====
+[source, json]
+----
 {
         "employeeId": 1,
         "firstName": "Huckleberry",
@@ -15,3 +18,5 @@ It responds with a JSON representation of an employee with employeeId=1  as the 
         "gender": "MALE",
         "dateOfBirth": "1986-12-21"
     }
+----
+====
