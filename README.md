@@ -4,6 +4,7 @@ This service accepts HTTP GET, POST, PUT and DELETE requests at http://localhost
 
 HTTP GET request at http://localhost:8080/employees/
 It responds with a JSON representation of list of employees as the following listing shows:
+----
 {
         "employeeId": 1,
         "firstName": "Huckleberry",
@@ -33,7 +34,6 @@ It responds with a JSON representation of list of employees as the following lis
         "gender": "FEMALE",
         "dateOfBirth": "1986-03-22"
     },
-    
 ----
     {
         "employeeId": 4,
@@ -64,3 +64,4 @@ It responds with a JSON representation of list of employees as the following lis
         "gender": "MALE",
         "dateOfBirth": "1975-07-27"
     }
+----
