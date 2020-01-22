@@ -10,7 +10,6 @@ This service accepts HTTP GET, POST, PUT and DELETE requests at http://localhost
 It responds with a JSON representation of list of employees as the following listing shows:
 
 ----
-
 {
         "employeeId": 1,
         "firstName": "Huckleberry",
