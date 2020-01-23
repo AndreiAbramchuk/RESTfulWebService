@@ -1,4 +1,4 @@
-<snippet>
+
   <content><![CDATA[
 # ${1:Project Name}
 TODO: Write a project description
@@ -20,4 +20,4 @@ TODO: Write credits
 TODO: Write license
 ]]></content>
   <tabTrigger>readme</tabTrigger>
-</snippet>
+
