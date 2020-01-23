@@ -1,23 +1,23 @@
-# RESTfulWebService
-
-Simple REST API with Spring Boot 2.2.1 , Spring JDBC and MySQL.
-
-This service accepts HTTP GET, POST, PUT and DELETE requests at http://localhost:8080/employees/
-
-<h3> HTTP GET request at http://localhost:8080/employees/
-        
-It responds with a JSON representation of list of employees as the following listing shows:
-
-
-
-You will build a service that will accept HTTP GET requests at
-`http://localhost:8080/greeting`.
-
-It will respond with a JSON representation of a greeting, as the following listing shows:
-
-====
-[source,json]
-----
-{"id":1,"content":"Hello, World!"}
-----
-====
+<snippet>
+  <content><![CDATA[
+# ${1:Project Name}
+TODO: Write a project description
+## Installation
+TODO: Describe the installation process
+## Usage
+TODO: Write usage instructions
+## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+## History
+TODO: Write history
+## Credits
+TODO: Write credits
+## License
+TODO: Write license
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
