@@ -1,12 +1,12 @@
 # RESTfulWebService
 Simple REST API with Spring Boot 2.2.1 , Spring JDBC and MySQL.
+---
 The software allows the user to 
-<li>
-* create,create or add new entries;
-* read, retrieve, search, or view existing entries;
-* update or edit existing entries;
-* delete, deactivate, or remove existing entries.
- </li> 
+<li> create,create or add new entries;
+<li> read, retrieve, search, or view existing entries;
+<li> update or edit existing entries;
+<li> delete, deactivate, or remove existing entries.
+  
 This service accepts HTTP GET, POST, PUT and DELETE requests at http://localhost:8080/employees/ 
 TODO: Write a project description
 ## Installation
