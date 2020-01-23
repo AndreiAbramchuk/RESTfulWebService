@@ -1,6 +1,7 @@
 # RESTfulWebService
+
 Simple REST API with Spring Boot 2.2.1 , Spring JDBC and MySQL.
----
+
 The software allows the user to 
 <li> create,create or add new entries;
 <li> read, retrieve, search, or view existing entries;
