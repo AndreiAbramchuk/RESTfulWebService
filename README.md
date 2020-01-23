@@ -1,5 +1,5 @@
 
-  <content><![CDATA[
+
 # ${1:Project Name}
 TODO: Write a project description
 ## Installation
@@ -18,6 +18,5 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+
 
