@@ -7,12 +7,14 @@ The software allows the user to
 <li> read, retrieve, search, or view existing entries;
 <li> update or edit existing entries;
 <li> delete, deactivate, or remove existing entries.
-  
-This service accepts HTTP GET, POST, PUT and DELETE requests at http://localhost:8080/employees/ 
+This service accepts HTTP GET, POST, PUT and DELETE requests at http://localhost:8080/employees/   
+
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
 ## Usage
+
+
 TODO: Write usage instructions
 ## Contributing
 1. Fork it!
