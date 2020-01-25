@@ -17,6 +17,13 @@ TODO: Describe the installation process
 
 
 TODO: Write usage instructions
+
+HTTP GET request at http://localhost:8080/employees/1
+
+It responds with a JSON representation of an employee with employeeId=1 as the following listing shows:
+
+
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -31,17 +38,6 @@ TODO: Write credits
 TODO: Write license
 
 
-
-
-Simple REST API with Spring Boot 2.2.1 , Spring JDBC and MySQL.
-
-What do you need?
-
-This service accepts HTTP GET, POST, PUT and DELETE requests at http://localhost:8080/employees/
-
-HTTP GET request at http://localhost:8080/employees/1
-
-It responds with a JSON representation of an employee with employeeId=1 as the following listing shows:
 
 
 
